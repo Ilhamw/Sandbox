@@ -1,1 +1,2 @@
-"""Ilham Wiharja"""
+name = """Ilham Wiharja"""
+print(name)
